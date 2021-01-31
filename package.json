@@ -1,0 +1,16 @@
+{
+  "name": "bibliotheek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fdir": "^5.0.0",
+    "fs": "0.0.1-security"
+  }
+}
